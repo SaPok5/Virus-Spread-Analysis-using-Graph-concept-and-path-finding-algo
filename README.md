@@ -3,14 +3,23 @@
 
 Virus Analysis App is a Python-based application that allows users to analyze the spread of a virus in various cities. The app uses traffic data, population data, and geographic data to visualize the spread and find the safest and shortest path between cities using the A* algorithm.
 
+
 ## Features
 
 - Load city traffic data from CSV files.
 - Load district geographic data (latitude and longitude) from a CSV file.
 - Load population data (population and area) from a CSV file.
+![image](https://github.com/SaPok5/Virus-Spread-Analysis-using-Graph-concept-and-path-finding-algo/assets/98219026/e6edb62e-74a2-4347-a9e2-290ece27ac5b)
+
 - Analyze data to create a weighted graph based on virus infection rates.
+ ![image](https://github.com/SaPok5/Virus-Spread-Analysis-using-Graph-concept-and-path-finding-algo/assets/98219026/d742cb15-b5d7-4477-b6fb-c495d7143ead)
+
 - Visualize the graph with nodes representing cities and edges representing traffic flow.
+  ![image](https://github.com/SaPok5/Virus-Spread-Analysis-using-Graph-concept-and-path-finding-algo/assets/98219026/260d5b93-41ea-41b5-b028-8ecee4684e17)
+
 - Highlight the safest and shortest path between two cities using the A* algorithm.
+  ![image](https://github.com/SaPok5/Virus-Spread-Analysis-using-Graph-concept-and-path-finding-algo/assets/98219026/f1529715-4050-4d5c-8e2a-b0560b39fbce)
+
 - User-friendly GUI built with Tkinter.
 
 ## Requirements
