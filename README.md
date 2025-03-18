@@ -35,7 +35,7 @@ Virus Analysis App is a Python-based application that allows users to analyze th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/virus-analysis-app.git
+    git clone https://github.com/SaPok5/virus-analysis-app.git
     cd virus-analysis-app
     ```
 
